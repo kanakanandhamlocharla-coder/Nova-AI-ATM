@@ -1,0 +1,173 @@
+{
+  "bank_details": [
+    {
+      "branch_id": 123456,
+      "bank_name": "State Bank Of India",
+      "bank_branch": "Seethammadhara",
+      "bank_ifsc": "SBIN0007642",
+      "bank_address": "Eenaadu"
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": 1234,
+      "customer_name": "Apparao",
+      "customer_account_type": "Savings",
+      "customer_account_number": "12345678900",
+      "customer_ifsc_code": "SBIN0007642",
+      "customer_ph_number": "1234567890",
+      "transactions": [
+        {
+          "date": "02/08/2026, 11:30 AM",
+          "transaction_type": "Withdraw",
+          "amount": 5000,
+          "status": "Success"
+        },
+        {
+          "date": "01/08/2026, 05:47 PM",
+          "transaction_type": "Withdraw",
+          "amount": 3700,
+          "status": "Success"
+        },
+        {
+          "date": "27/07/2026, 04:26 PM",
+          "transaction_type": "Deposit",
+          "amount": 5500,
+          "status": "Success"
+        },
+        {
+          "date": "14/05/2026, 11:36 AM",
+          "transaction_type": "Withdraw",
+          "amount": 6700,
+          "status": "Success"
+        },
+        {
+          "date": "24/03/2026, 05:47 AM",
+          "transaction_type": "Withdraw",
+          "amount": 4500,
+          "status": "Success"
+        }
+      ]
+    },
+    {
+      "customer_id": 2345,
+      "customer_name": "Satyavathi",
+      "customer_account_type": "Current",
+      "customer_account_number": "01234567890",
+      "customer_ifsc_code": "SBIN0007642",
+      "customer_ph_number": 1234568520,
+      "transactions": [
+        {
+          "date": "26/07/2026, 5:45 PM",
+          "transaction_type": "Deposit",
+          "amount": 10000,
+          "status": "Success"
+        },
+        {
+          "date": "09/07/2026, 6:33 AM",
+          "transaction_type": "Withdraw",
+          "amount": 7500,
+          "status": "Success"
+        },
+        {
+          "date": "01/07/2026, 09:26 PM",
+          "transaction_type": "Deposit",
+          "amount": 12000,
+          "status": "Success"
+        },
+        {
+          "date": "17/05/2026, 11:36 AM",
+          "transaction_type": "Withdraw",
+          "amount": 3500,
+          "status": "Success"
+        },
+        {
+          "date": "06/03/2026, 05:47 AM",
+          "transaction_type": "Withdraw",
+          "amount": 9500,
+          "status": "Success"
+        }
+      ]
+    },
+    {
+      "customer_id": 3456,
+      "customer_name": "Sadanandam",
+      "customer_account_type": "Current",
+      "customer_account_number": "01234567890",
+      "customer_ifsc_code": "SBIN0007642",
+      "customer_ph_number": "1234543152",
+      "transactions": [
+        {
+          "date": "14/07/2026, 8:00 AM",
+          "transaction_type": "Withdraw",
+          "amount": 2700,
+          "status": "Success"
+        },
+        {
+          "date": "01/06/2026, 06:36 PM",
+          "transaction_type": "Withdraw",
+          "amount": 3400,
+          "status": "Success"
+        },
+        {
+          "date": "030/05/2026, 08:46 PM",
+          "transaction_type": "Deposit",
+          "amount": 6500,
+          "status": "Success"
+        },
+        {
+          "date": "25/05/2026, 11:21 AM",
+          "transaction_type": "Withdraw",
+          "amount": 1200,
+          "status": "Success"
+        },
+        {
+          "date": "02/04/2026, 05:30 PM",
+          "transaction_type": "Withdraw",
+          "amount": 200,
+          "status": "Success"
+        }
+      ]
+    },
+    {
+      "customer_id": 4567,
+      "customer_name": "Kanakanandam",
+      "customer_account_type": "Savings",
+      "customer_account_number": "12345006789",
+      "customer_ifsc_code": "SBIN0007642",
+      "customer_ph_number": 1234505431,
+      "transactions": [
+        {
+          "date": "10/06/2026, 09:37 PM",
+          "transaction_type": "Deposit",
+          "amount": 15000,
+          "status": "Success"
+        },
+        {
+          "date": "030/05/2026, 05:47 PM",
+          "transaction_type": "Withdraw",
+          "amount": 6500,
+          "status": "Success"
+        },
+        {
+          "date": "12/05/2026, 09:38 PM",
+          "transaction_type": "Deposit",
+          "amount": 18200,
+          "status": "Success"
+        },
+        {
+          "date": "19/04/2026, 07:33 AM",
+          "transaction_type": "Withdraw",
+          "amount": 9700,
+          "status": "Success"
+        },
+        {
+          "date": "16/02/2026, 03:45 PM",
+          "transaction_type": "Withdraw",
+          "amount": 3700,
+          "status": "Success"
+        }
+      ]
+    }
+  ]
+}
